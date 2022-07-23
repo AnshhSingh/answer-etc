@@ -1,3 +1,6 @@
 {
-    "code-runner.defaultLanguage": ""
+    "code-runner.defaultLanguage": "",
+    "files.associations": {
+        "random": "c"
+    }
 }
