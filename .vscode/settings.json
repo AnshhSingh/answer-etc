@@ -1,6 +1,8 @@
 {
     "code-runner.defaultLanguage": "",
     "files.associations": {
-        "random": "c"
+        "random": "c",
+        "algorithm": "c",
+        "math.h": "c"
     }
 }
